@@ -1,0 +1,5 @@
+* Deal with arrays separately?
+* Fix problem with pointer size
+* Fix dependencies in mvn
+* Document
+* Deal with class / string methods being called twice
